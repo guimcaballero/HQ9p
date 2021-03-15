@@ -14,7 +14,10 @@ Language     | Status   | File
 ------------ | -------- | -------
 C            | ✅        | [main.c](/c/main.c)
 C++          | ✅        | [main.cpp](/cpp/main.cpp)
+Fortran      | ✅        | [main.f90](/fortran/main.f90)
 Haskell      | ✅        | [Lib.hs](/haskell/src/Lib.hs)
 JavaScript   | ✅        | [index.js](/javascript/index.js)
 PHP          | ✅        | [index.php](/php/index.php)
+Python       | ✅        | [main.py](/python/main.py)
 Rust         | ✅        | [main.rs](/rust/src/main.rs)
+TypeScript   | ✅        | [index.ts](/typescript/index.ts)
